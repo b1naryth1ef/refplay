@@ -20,9 +20,6 @@ packages = [
 
 requires = []
 
-print refplay
-print dir(refplay)
-
 setup(
     name='refplay',
     version=refplay.__version__,
